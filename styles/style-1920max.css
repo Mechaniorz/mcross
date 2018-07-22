@@ -1,0 +1,24 @@
+@media only screen and (min-width: 1025px) and (max-width: 1920px) {
+	.wrapper {
+	max-width: 1170px;
+	margin: 0 auto;
+	}
+	
+	.header {
+		background-image: url('../images/mtb.jpg');
+	}
+	.header h1 {
+		font-size: 100px;
+	}
+	.header p {
+		font-size: 35px
+	}
+	
+	.video {
+		background-image: url('../images/dirt.jpg');
+	}
+	
+	.arena {
+		background-image: url('../images/mtb-track.jpg');
+	}
+}

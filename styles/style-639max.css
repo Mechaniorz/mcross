@@ -1,0 +1,27 @@
+@media only screen and (min-width: 321px) and (max-width: 639px) {
+	.header {
+		background-image: url('../images/mtb.jpg');
+	}
+	.header h1 {
+		font-size: 65px;
+	}
+	.header p {
+		font-size: 30px
+	}
+	
+	.left-skewed-background {
+		display: none;
+	}
+	
+	.right-skewed-background {
+		display: none;
+	}
+	
+	.video {
+		background-image: url('../images/dirt.jpg');
+	}
+	
+	.arena {
+		background-image: url('../images/mtb-track.jpg');
+	}
+}

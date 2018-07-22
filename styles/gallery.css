@@ -1,0 +1,19 @@
+.gallery {
+	width: 100%;
+}
+
+.image-container {
+	width: 50%;
+	padding: 2.5px 5px;
+	box-sizing: border-box;
+	float: left;
+}
+
+.image-container img {
+	width: 100%;
+	height: auto;
+}
+
+.image-container img:hover {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+}
